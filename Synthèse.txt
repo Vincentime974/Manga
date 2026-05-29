@@ -1,0 +1,30 @@
+Synthèse
+
+J’ai appris l’analyse d’une demande d’un client et les premières étapes de la méthodologie pour les cahiers des charges. Lorsqu’un client nous appelle pour une demande, il faut d’abord analyser sa situation et comprendre précisément ses besoins. Si sa demande est imprécise, il faudra poser un maximum de questions pour savoir ce que le client veut réellement. Ensuite, on doit reformuler la demande afin de vérifier si l’on a bien compris et éviter les erreurs.
+
+
+
+Après cette étape, la création de personas (prénom, âge, situation, objectif, frustration) permet de représenter les différents types d’utilisateurs pour mieux adapter la future solution à leurs attentes. Par exemple :
+
+Prénom: Lucas
+
+Age:15ans
+
+Situation: Étudiant
+
+Objectif: Lucas veut pouvoir commander ses sandwichs
+
+Frustations:
+
+-Temps d'attente pour la préparation du sandwich
+
+-Temps d'attente pour pouvoir commander son sandwich sur place
+
+
+
+La troisième étape consiste à créer des user stories afin d’identifier les besoins des utilisateurs qui vont utiliser notre solution. Une user story se présente souvent sous la forme : « En tant que client, j’aimerais voir les sandwichs».
+
+
+
+Grâce aux user stories, on va pouvoir mieux comprendre les fonctionnalités à mettre en place.
+
