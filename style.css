@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    background-color: black;
+}
+
+nav{  
+    text-align: center;
+    font-family: "Open Sans", Arial, sans-serif;
+    background-color: beige;
+    padding: 10px;
+}
+
+#animeForm{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+    margin:20px;
+}
+
+input{
+    padding:10px;
+    width:300px;
+    border-radius:10px;
+    border:none;
+}
+
+button{
+    padding:10px;
+    border:none;
+    border-radius:10px;
+    cursor:pointer;
+    background-color: beige;
+}
+
+#resultat{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+    margin:20px;
+}
+
+.encadrement{
+    display:flex;
+    gap:20px;
+    background-color: rgb(20,20,20);
+    padding:20px;
+    border-radius:20px;
+    align-items:flex-start;
+}
+
+img{
+    width:220px;
+    border-radius: 10%;
+    border:3px solid beige;
+}
+
+.info{
+    flex:1;
+}
+
+h2{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top:0;
+}
+
+p{
+    color:white;
+    line-height:1.5;
+}
